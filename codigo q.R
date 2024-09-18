@@ -1,5 +1,5 @@
 library(tidyverse)
 library(dslabs)
 
-data(murders)
-
+e <- data("esoph")
+e
