@@ -2,7 +2,7 @@
 title: "Proyecto dato"
 author: "Alejandro Martinez"
 date: "2024-09-18"
-output: pdf_document
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
